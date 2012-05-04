@@ -1,2 +1,12 @@
-5: Title
-********
+Event 5
+*******
+
+Synopsis
+========
+
+What effects did it have?
+=========================
+
+Why I chose this event
+======================
+

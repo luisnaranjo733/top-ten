@@ -1,2 +1,12 @@
-7: Title
-********
+Event 7
+*******
+
+Synopsis
+========
+
+What effects did it have?
+=========================
+
+Why I chose this event
+======================
+
