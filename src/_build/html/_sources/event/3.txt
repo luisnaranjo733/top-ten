@@ -1,2 +1,12 @@
-3: Title
+3: three
 ********
+
+Synopsis
+========
+
+What effects did it have?
+=========================
+
+Media
+=====
+

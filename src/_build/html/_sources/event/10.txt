@@ -1,2 +1,12 @@
-10: Title
-*********
+10: ten
+*******
+
+Synopsis
+========
+
+What effects did it have?
+=========================
+
+Media
+=====
+

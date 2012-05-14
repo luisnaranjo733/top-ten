@@ -1,4 +1,5 @@
 from os import popen
+import sys
 
 filenames = range(1,11)
 extension = '.rst'
@@ -25,10 +26,30 @@ def write(page_number, messages):
         txt.close()
         del txt
 
-for page_number in filenames:
+titles = [
+    'one',
+    'two',
+    'three',
+    'four',
+    'five',
+    'six',
+    'seven',
+    'eigth',
+    'nine',
+    'ten'
+]
+
+assert len(titles) == 10
+titles.reverse()
+filenames.reverse()
+
+
+for title, page_number in zip(titles, filenames):
+
     write(page_number, [
-        'Event %d' % page_number,
+        #'Event %d' % page_number,
+        '{number}: {title}'.format(number=page_number, title=title),
         'Synopsis',
         'What effects did it have?',
-       'Why I chose this event'
+        'Media'
         ])

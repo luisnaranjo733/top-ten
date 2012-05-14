@@ -1,5 +1,5 @@
-Event 3
-*******
+3: three
+********
 
 Synopsis
 ========
@@ -7,6 +7,6 @@ Synopsis
 What effects did it have?
 =========================
 
-Why I chose this event
-======================
+Media
+=====
 

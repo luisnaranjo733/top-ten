@@ -1,2 +1,12 @@
-6: Title
-********
+6: six
+******
+
+Synopsis
+========
+
+What effects did it have?
+=========================
+
+Media
+=====
+

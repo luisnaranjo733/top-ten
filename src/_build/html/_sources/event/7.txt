@@ -1,2 +1,12 @@
-7: Title
+7: seven
 ********
+
+Synopsis
+========
+
+What effects did it have?
+=========================
+
+Media
+=====
+
