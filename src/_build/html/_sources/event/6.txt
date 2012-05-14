@@ -1,12 +1,81 @@
 6: Pearl Harbor
 ***************
 
+**WWII comes to America**
+
 Synopsis
 ========
+
+On December 7, 1941 Japan launched a surprise attack on an American naval base in Oahu, Hawaii.
+
+The attack came while peace talks were apparently still underway, as an attempt to catch the U.S. off guard.
+
+Japan was planning belligerent activity against the Netherlands, the UK, and China.
+It's intent with the Pearl Harbor attack was to cripple the American naval fleet to prevent
+to get them out of the way.
+
+The Japanese brought 6 aircraft carriers, with 353 Japanese figter planes. There were 8 U.S. Navy Battleships
+present, and they were all seriously damaged. Four of them were sunk.
+
+The Japanese also sank or damaged three cruisers, three destroyers, an anti-aircraft training ship, and one minelayer.
+
+188 U.S. aircraft were destroyed and 2,402 Americans were killed and 1,282 wounded.
+
+The U.S. joined the war the next day by declaring war on Japan, an Axis power.
 
 What effects did it have?
 =========================
 
+The attack on Pearl Harbor came as a wake up call to America.
+
+Before the attack, `isolationism`_ was prevalent in America.
+But *after* the attack, the general American attitude changed radically.
+Americans everywhere united in solidarity with the war effort.
+
+As Japanese General Yamomoto puts it::
+
+   "I fear all we have done is to awaken a sleeping giant and fill him with a terrible resolve."
+
+The good
+--------
+
+* The U.S. joined the war, and played a huge role in defeating the Axis powers(even though it came in late).
+* The American economy was pulled out of depression as a result of the war economy.
+* National pride and patriotism soared.
+
+The bad
+-------
+
+* The federal government was plunged into even deeper debt.
+* The attack on Pearl Harbor lead to executive order 9066, which put Japanese Americans in concentration camps.
+
+Good and bad
+------------
+
+* The U.S. and Soviet Union became the only remaining superpowers in the world.
+* The baby boomer generation emerged.
+
 Media
 =====
 
+.. image:: images/explosion.jpg
+
+A razed airplane field at Pearl Harbor.
+
+.. image:: images/planes.jpg
+
+A row of destroyed planes after the attack.
+
+.. image:: images/arizona.jpg
+
+The destroyed USS Arizona going up in flames.
+
+.. image:: images/memorial.jpg
+
+The memorial of the USS Arizona that is in place today.
+
+.. image:: images/civilian.jpg
+
+A civilian who was killed at the attack
+
+.. _isolationism: http://en.wikipedia.org/wiki/Isolationism
