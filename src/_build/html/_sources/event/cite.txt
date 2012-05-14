@@ -62,3 +62,7 @@ http://en.wikipedia.org/wiki/September_11_attacks
 
 The dropping of the atomic bomb
 ===============================
+
+http://www.socialstudieshelp.com/Lesson_95_Notes.htm
+http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB162/index.htm
+https://www.trumanlibrary.org/teacher/abomb.htm 
