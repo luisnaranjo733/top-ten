@@ -57,5 +57,8 @@ http://memory.loc.gov/ammem/wrighthtml/wrighttime.html
 The attacks on 9/11
 ===================
 
+http://www.911memorial.org/faq-about-911
+http://en.wikipedia.org/wiki/September_11_attacks
+
 The dropping of the atomic bomb
 ===============================

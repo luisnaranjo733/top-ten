@@ -5,13 +5,15 @@ Top ten greatest events of the 1900's (US)
 
    This project is for Mr. Hecko's third period U.S. History class.
 
+   Click on the 'Next Topic' button on the sidebar to get started.
+
 .. image:: images/topten.jpg
    :align: center
-   :width: 200px
+   :width: 400px
    :alt: Top ten most important events in the US since the 1900's
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    event/10
    event/9
@@ -23,16 +25,8 @@ Top ten greatest events of the 1900's (US)
    event/3
    event/2
    event/1
-
-.. toctree::
-   :maxdepth: 1
-
    event/cite
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 

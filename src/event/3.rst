@@ -18,6 +18,10 @@ Orville Wright conducted the first successful 'heavier than air' flight ever.
 Their airplane was propellor driven, and it was able to stay up in the air for 12 seconds
 on its' first round.
 
+They had 3 more successful flights that day, with very little media coverage.
+
+After only a few years, they managed to stay in the air for over an hour!
+
 What effects did it have?
 =========================
 
@@ -28,13 +32,13 @@ During WWI, the plane was used for espionage.
 During WWII, the plane was a major tool of destruction, fitted with powerful
 weaponry.
 
-The plane clearly made a big impact in the Battle of London for example, 
-where the war was almost lost the the Axis powers.
+For example, the plane made a big impact in the Battle of London where the 
+war was almost lost to the Axis powers.
 
 Today, it is still used as a war machine, but now its' usage is extended to 
-quickly and effectively transport goods and people from one place to another.
+quickly and effectively transporting goods and people from one place to another.
 
-Never before have humans been able to travel so quickly, lightly, and easily.
+Never before have humans been able to travel so quickly, lightly, effectively, and easily.
 
 Media
 =====
@@ -42,11 +46,11 @@ Media
 .. image:: images/flight.jpg
    :width: 500px
 
-_
+The first flight, at Kitty Hawk.
 
 .. image:: images/kitty.jpg
 
-_
+Another Kitty Hawk photo.
 
 .. image:: images/bros.jpg
 
