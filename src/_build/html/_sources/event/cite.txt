@@ -37,6 +37,10 @@ http://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor
 The New Deal
 ============
 
+http://en.wikipedia.org/wiki/New_Deal
+http://www.pbs.org/wgbh/americanexperience/features/general-article/dustbowl-new-deal/
+http://www.u-s-history.com/pages/h1851.html
+
 Apollo 11
 =========
 

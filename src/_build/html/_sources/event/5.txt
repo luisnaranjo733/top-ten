@@ -4,9 +4,67 @@
 Synopsis
 ========
 
+In 1932, when Roosevelt was elected President, the U.S. was longing for change.
+
+The country had been devasted by the crash of the stock market, the dustbowl, the bank failures, and economic isolationism.
+
+America needed a leader, a strong leader, and that's exactly what it got.
+
+Many have ranked Roosevelt's presidency as **one of the best in U.S. History**.
+
+Part of the reason behind that is the way he dealt with the depression.
+
+Instead of sitting idly by waiting for the money to "trickle down", he went and took action.
+
+This action, was his "New Deal" program.
+
+The main idea was to put Americans back to work through public spending.
+
+Some of the most famous programs
+--------------------------------
+
+* Civil Conservation Corps
+   * One of the New Deal's most successful programs.
+   * It aimed to address the problem of unemployment by sending 3 million young men to the Nations' forests to work.
+   * Most of their pay check (2/3) was sent home, in an attempt to provide for their families.
+
+* Works Progress Administration
+   * A major work relief program that involved around 8.5 million Americans.
+   * They would build bridges, roads, public buildings, parks and airports.
+
+* Tennessee Valley Authority Act
+   * Allowed the federal government to build dams and power plants in the Tennessee Valley
+
+* Emergency Banking Act
+   * Provided the president with the means to reopen viable banks and regulate banking
+
 What effects did it have?
 =========================
 
+Even though the New Deal *did not* pull America out of the depression, it did help to improve the situation.
+
+Here are some of the effects of the "New Deal".
+
+* Boosted morale
+* Provided for the basic needs of many Americans
+* Gave many unemployed Americans jobs
+* Got American industries back on their feet.
+* Major reform to prevent another depression.
+* Part of the 14 trillion dollar debt that the U.S. Government still has.
+
 Media
 =====
+
+.. image:: images/pin.jpg
+
+A pin that was a part of Franklin Roosevelt's "New Deal" campaign.
+
+.. image:: images/wpa.jpg
+
+A couple of WPA workers at work in Tuskegee, Alabama
+
+.. image:: images/businessmen.jpg
+
+A pair of classy looking fellows trying to make ends meet during the great depression.
+
 
