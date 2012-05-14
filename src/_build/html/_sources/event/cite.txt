@@ -44,6 +44,9 @@ http://www.u-s-history.com/pages/h1851.html
 Apollo 11
 =========
 
+http://www.nasa.gov/mission_pages/apollo/missions/apollo11.html
+http://www.historyplace.com/unitedstates/apollo11/index.html
+
 The Wright Brothers take to the skies
 =====================================
 

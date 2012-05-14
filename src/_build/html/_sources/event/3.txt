@@ -10,3 +10,4 @@ What effects did it have?
 Media
 =====
 
+.. image:: images/flight.jpg
