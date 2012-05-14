@@ -40,3 +40,15 @@ It led to:
 Media
 =====
 
+
+.. image:: images/email.JPG
+
+One of the earliest email messages were sent from this Arpanet computer.
+
+.. image:: images/nodes.jpg
+
+Computer Science legends Dennis Ritchie and Ken Thompson work on an Arpanet using computer here (before they created Unix).
+
+.. image:: images/bbnteam.jpg
+
+This is the team at Berkeley that established the first computer network in the history of man kind.

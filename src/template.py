@@ -78,9 +78,3 @@ for title in titles:
 
 txt.close()
 
-
-for title in titles:
-    title = ''.join([x for x in title if x != ' '])
-    try:
-        os.mkdir(os.path.join('images', title))
-    except OSError, error: pass
