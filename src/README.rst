@@ -9,7 +9,7 @@ This is the website's 'homepage', the index.
 From here you access all ten events.
 
 event/
-=====
+======
 
 This folder contains **template.py** which creates the base structure of the
 project.

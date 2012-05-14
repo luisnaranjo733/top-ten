@@ -1,19 +1,20 @@
-Top Ten
-*******
+Project Structure
+*****************
 
-This is a project for Mr. Hecko's 3rd period U.S. History class.
+Index.py
+========
 
-The **objective** of this project is to classify the top ten events
-in U.S. history, during the 1900's (in order).
+This is the website's 'homepage', the index.
 
-The technologies used to build this project are:
-    
-    Python (Programming language used)
+From here you access all ten events.
 
-    Sphinx (Python documentation library)
+event/
+======
 
-    Git (Version Control)
+This folder contains **template.py** which creates the base structure of the
+project.
 
-    Github (Code hosting)
+It also contains 10 restructured text files (created by template.py).
 
-    Readthedocs.org (doc hosting)
+Each file corresponds to one of the 10 most important events in U.S. history
+since the 1900's.

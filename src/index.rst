@@ -1,23 +1,14 @@
-Top ten events of the 1900's (US)
-=================================
+Top ten greatest events of the 1900's (US)
+==========================================
 
+.. topic:: Luis Naranjo
 
+   This project is for Mr. Hecko's third period U.S. History class.
 
 .. image:: images/top_10.jpg
    :align: center
    :width: 200px
    :alt: Top ten most important events in the US since the 1900's
-
-.. sidebar:: Author
-   :subtitle: Luis Naranjo
-
-   This is for Mr. Hecko's third period U.S. History class
-
-
-
-
-
-
 
 .. toctree::
    :maxdepth: 2

@@ -1,5 +1,5 @@
-1: one
-******
+1: The dropping of the atomic bomb
+**********************************
 
 Synopsis
 ========
