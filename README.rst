@@ -18,4 +18,6 @@ The technologies used to build this project are:
 
     Readthedocs.org (doc hosting)
     
-Built site on top-ten.readthedocs.org
+`Finished site`_
+
+.. _Finished site: top-ten.readthedocs.org
