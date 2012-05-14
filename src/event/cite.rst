@@ -15,8 +15,8 @@ http://en.wikipedia.org/wiki/I_Have_a_Dream
 
 http://www.huffingtonpost.com/2011/01/17/i-have-a-dream-speech-text_n_809993.html
 
-Bay of pigs/Cuban Missile Crisis
-================================
+Cuban Missile Crisis
+====================
 
 http://en.wikipedia.org/wiki/Cuban_Missile_Crisis
 http://www.jfklibrary.org/JFK/JFK-in-History/Cuban-Missile-Crisis.aspx
@@ -24,6 +24,9 @@ http://www.wyzant.com/Help/History/HPOL/JFK/Cuban/
 
 The C Programming Language
 ==========================
+
+http://www.livinginternet.com/i/iw_unix_c.htm
+http://groups.engin.umd.umich.edu/CIS/course.des/cis400/c/c.html
 
 Pearl Harbor
 ============

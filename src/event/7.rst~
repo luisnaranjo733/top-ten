@@ -41,9 +41,7 @@ We rely on things that come from C every day, and many of us don't even realize 
    * The two most popular programing languages today are direct descendants of C (C++ and Python).
    * Even those that started from scratch conform to the syntax standards set by C - everything looks like C (except python).
    * Embedded systems
-      * Modern car dashboards, plane flight controls, digital medical equipment, cell phones, etc...
-
-**In a nutshell, almost every single digital product that we use today is a product of C, or at least has been influenced by it in some way.**
+      * Modern car dashboards, plane flight controls, digital medical equipment
 
 
 Media
