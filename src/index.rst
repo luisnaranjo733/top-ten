@@ -11,8 +11,7 @@ Top ten greatest events of the 1900's (US)
    :alt: Top ten most important events in the US since the 1900's
 
 .. toctree::
-   :maxdepth: 2
-   
+   :maxdepth: 1
 
    event/10
    event/9
@@ -24,6 +23,10 @@ Top ten greatest events of the 1900's (US)
    event/3
    event/2
    event/1
+
+.. toctree::
+   :maxdepth: 1
+
    event/cite
 
 Indices and tables

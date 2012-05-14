@@ -4,10 +4,50 @@
 Synopsis
 ========
 
+Throughout history, human beings have had a desire to fly.
+
+In 1903, the United States tried to develop an airplane, 
+and failed::
+
+   "In 1 million to 10 million years they might be able to make a plane that would fly."
+     -The New York Times
+
+Eigth days after the New York Times made this statement, In Kitty Hawk, NC; Wilbur and 
+Orville Wright conducted the first successful 'heavier than air' flight ever.
+
+Their airplane was propellor driven, and it was able to stay up in the air for 12 seconds
+on its' first round.
+
 What effects did it have?
 =========================
+
+The invention of the airplane had major implications in the upcoming years.
+
+During WWI, the plane was used for espionage.
+
+During WWII, the plane was a major tool of destruction, fitted with powerful
+weaponry.
+
+The plane clearly made a big impact in the Battle of London for example, 
+where the war was almost lost the the Axis powers.
+
+Today, it is still used as a war machine, but now its' usage is extended to 
+quickly and effectively transport goods and people from one place to another.
+
+Never before have humans been able to travel so quickly, lightly, and easily.
 
 Media
 =====
 
 .. image:: images/flight.jpg
+   :width: 500px
+
+_
+
+.. image:: images/kitty.jpg
+
+_
+
+.. image:: images/bros.jpg
+
+wilbur and orville wright

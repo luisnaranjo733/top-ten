@@ -4,7 +4,7 @@ Works Cited
 Arpanet
 =======
 
-http://en.wikipedia.org/wiki/History_of_the_Internet#Three_terminals_and_an_ARPA
+http://en.wikipedia.org/wiki/History_of_the_Internet
 
 http://sixrevisions.com/resources/the-history-of-the-internet-in-a-nutshell/
 
@@ -49,6 +49,10 @@ http://www.historyplace.com/unitedstates/apollo11/index.html
 
 The Wright Brothers take to the skies
 =====================================
+
+http://gardenofpraise.com/ibdwrigh.htm
+http://www.wright-house.com/wright-brothers/Wrights.html
+http://memory.loc.gov/ammem/wrighthtml/wrighttime.html
 
 The attacks on 9/11
 ===================
