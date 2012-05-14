@@ -1,65 +1,60 @@
-4: Apollo 11
-************
-
-Armstrong::
-
-   "That is one small step for man,
-   and one giant leap for mankind."
-
-   "It's a great honor and privilege for us to be here representing not only the United States
-    but men of peace of all nations, and with interests and the curiosity and with the vision for the future."
+4: The C Programming Language
+*****************************
 
 Synopsis
 ========
 
-On July 20, 1969 the greatest feat of exploration ever attempted was accomplished.
+In 1973 Dennis Ritchie and Ken Thompson released the legendary C programming language while working at Bell Labs.
 
-Earlier President John F. Kennedy had set a goal for the country: 
+C, at the time of publication was the 'highest level' programming language in existence.
 
-To reach the moon before the Soviets did, *and* before the end of 60's.
+Today, it is one of the lowest level languages that are still widely used.
 
-We had successfully put men on the moon, and got them back.
+It is the first 'portable' compiled programming language, which means that C takes human code and turns it into machine code.
 
-Crew
-----
+Before C, Computer Scientists had to write in assembly code, which usually meant that their programs
 
-Neil A. Armstrong
-
-Michael Collins
-
-Edwin "Buzz" E. Aldrin, Jr.
+would only work on their own computers, and were not easily distributable.
 
 What effects did it have?
 =========================
 
-The intent of the lunar landing was mainly political.
+C completely revolutionized countless industries.
 
-By 1957 (more than 10 years before we landed on the moon!), the Soviets had already put out their *Sputnik* satellite system.
+We rely on things that come from C every day, and many of us don't even realize it.
 
-This did a few things to the world:
-   * It inspired fear in Americans, that the Soviets could now potentially launch a nuclear missile and have it arrive in less that 30 minutes.
-   * It was used as propaganda to other 3rd world countries, to sell Soviet power over the Americans.
+* Personal Computers
+   * Dennis Ritchie used his C programming language to write the also legendary Unix operating system.
+   * Almost every single operating system in existence today is based off of Unix (except Windows).
+      * Mac OS
+      * Linux derivatives
 
-Once the U.S. had landed men on the moon, the Soviets were behind in the space race.
+* Companies
+   * Most commericial organizations rely on Unix-like computers for day to day operations.
+   * Unix computers have a legacy of safety, so entities like banks rely on them for security.
 
-Also, getting to the moon was a huge technological breakthrough.
-Thanks to that, we have many things today that come from our space ventures, like
+* The internet
+   * Many of servers today use software that is written in C.
+   * Even more servers (close to 90 percent) operate on Unix.
 
-* Cell phones
-* Television
-* Global Positioning Systems (GPS)
+* Software
+   * The two most popular programing languages today are direct descendants of C (C++ and Python).
+   * Even those that started from scratch conform to the syntax standards set by C - everything looks like C (except python).
+   * Embedded systems
+      * Modern car dashboards, plane flight controls, digital medical equipment, cell phones, etc...
+
+**In a nutshell, almost every single digital product that we use today is a product of C, or at least has been influenced by it in some way.**
+
 
 Media
 =====
 
-.. image:: images/liftoff.jpg
+.. image:: images/kr.png
 
-Here Apollo 11 is taking off from Florida.
+The legendary "K&R" manual for C programming, which is still studied in many Computer Science colleges.
 
-.. image:: images/moon.jpg
+.. image:: images/ritchie.jpeg
 
-A picture taken by a crewmember of Apollo 11 mission, while on the moon.
+Dennis Ritchie, before his death in 2011.
 
-.. image:: images/earth.jpg
 
-A close up image of Earth, from space (taken by the crew of Apollo 11).

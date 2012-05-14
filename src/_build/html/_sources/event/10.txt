@@ -1,7 +1,7 @@
 10: Arpanet
 ***********
 
-The beginning::
+The beginning of the internet::
 
    "We set up a telephone connection between us and the guys at SRI ...", Kleinrock ... said in an interview: "We typed the L and we asked on the phone,
 
@@ -26,7 +26,7 @@ Later, Arpanet grew from the first bilateral connection, to the first network wh
 What effects did it have?
 =========================
 
-Arpanet was the precursor to the **inter**-**net**, which we rely on so heavily today, and will continue to rely on for many future generations to come.
+Arpanet was the precursor to the **inter**-**net**, which we rely on so heavily today, and will likely continue to rely on for many future generations to come.
 
 It was proof of concept for the ideas that some of the world's earliest Computer Scientists had proposed earlier.
 
@@ -36,6 +36,20 @@ It led to:
    * The TCP/IP Standard which allowed the internet to grow into what we have today.
    * Email by Ray Tomlinson
    * The first trans-Atlantic connection (with the University College of London).
+
+Today many people make use of the internet every day - it's a fantastic tool.
+
+* It lets us look up map directions
+* Lets us pay for things remotely
+* Provides online jobs
+* It's a portable/enormous thesaurus
+* An easy means of communicating with people far away.
+* An educational tool
+* A business/promotional tool
+* Provides entertainment
+* Improves relationships between people through social networks
+
+The list goes on and on. I just wanted to demonstrate a couple of these ways that different people might benefit from the internet.
 
 Media
 =====

@@ -1,70 +1,52 @@
-4: Apollo 11
-************
-
-Armstrong::
-
-   "That is one small step for man,
-   and one giant leap for mankind."
-
-   "It's a great honor and privilege 
-   for us to be here representing 
-   not only the United States but
-   men of peace of all nations,
-   and with interests and the 
-   curiosity and with the vision
-   for the future."
+4: The attacks on 9\11
+**********************
 
 Synopsis
 ========
 
-On July 20, 1969 the greatest feat of exploration ever attempted was accomplished.
+On September 11, 2001 the U.S. attacked by terrorists.
 
-Earlier President John F. Kennedy had set a goal for the country: 
+These events were totally unexpected, and completely shocked the nation.
 
-To reach the moon before the Soviets did, *and* before the end of 60's.
+Al-Qaeda claims responsibility for the attacks.
 
-We had successfully put men on the moon, and got them back.
+Their justification is:
 
-Crew
-----
+* The U.S. support of Israel, who they have issues with.
+* The presence of American Troops in Saudi Arabia
+* U.S. sanction against Iraq.
 
-Neil A. Armstrong
+It was a four sided attack:
 
-Michael Collins
-
-Edwin "Buzz" E. Aldrin, Jr.
+* Pentagon
+* World Trade Center North Tower
+* World Trade Center South Tower
+* White House (failed)
 
 What effects did it have?
 =========================
 
-The intent of the lunar landing was mainly political.
+After the attacks were carried out, violence and intolerance were carried
+out against Muslims - for being Muslim.
 
-By 1957 (more than 10 years before we landed on the moon!), the Soviets had already put out their *Sputnik* satellite system.
+Some called for war against a Muslim country, for retribution.
 
-This did a few things to the world:
-   * It inspired fear in Americans, that the Soviets could now potentially launch a nuclear missile and have it arrive in less that 30 minutes.
-   * It was used as propaganda to other 3rd world countries, to sell Soviet power over the Americans.
+Eventually they got it, with the wars against both Afghanistan and Iraq.
 
-Once the U.S. had landed men on the moon, the Soviets were behind in the space race.
+What happened to the country on 9/11 even lead to political assassinations (Bin Laden),
+and public executions (Sadaam Husseinn).
 
-Also, getting to the moon was a huge technological breakthrough.
-Thanks to that, we have many things today that come from our space ventures, like
-
-* Cell phones
-* Television
-* Global Positioning Systems (GPS)
+Now the U.S. is involved in the longest on going war that it has *ever* seen since.
 
 Media
 =====
 
-.. image:: images/liftoff.jpg
+.. image:: images/firemen.jpg
 
-Here Apollo 11 is taking off from Florida.
+A couple of firemen hoist the American flag amid the rubble.
 
-.. image:: images/moon.jpg
+.. image:: images/smoke.jpg
 
-A picture taken by a crewmember of Apollo 11 mission, while on the moon.
+Rolling clouds of smoke and debris stalk the streets of New York.
 
-.. image:: images/earth.jpg
 
-A close up image of Earth, from space (taken by the crew of Apollo 11).

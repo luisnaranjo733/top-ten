@@ -1,57 +1,62 @@
-3: The Wright Brothers take to the skies
-****************************************
+3: The dropping of the atomic bomb
+**********************************
 
 Synopsis
 ========
 
-Throughout history, human beings have had a desire to fly.
+In August 1939, German Scientist Albert Einsten sent a letter to Roosevelt
+warning him of the nuclear capability that the Germans were close to posessing.
 
-In 1903, the United States tried to develop an airplane, 
-and failed::
+In 1940, the Manhattan Project was already under way.
 
-   "In 1 million to 10 million years they might be able to make a plane that would fly."
-     -The New York Times
+In 1945, President Truman was faced with a terrible decision.
 
-Eigth days after the New York Times made this statement, In Kitty Hawk, NC; Wilbur and 
-Orville Wright conducted the first successful 'heavier than air' flight ever.
+He had to decide whether or not the United States should use the nuclear bomb on Japan.
 
-Their airplane was propellor driven, and it was able to stay up in the air for 12 seconds
-on its' first round.
+Truman decided to issue Japan the Potsdam declaration::
 
-They had 3 more successful flights that day, with very little media coverage.
+   "the Empire of Japan as agreed upon at the Potsdam Conference. 
+   This ultimatum stated that, if Japan did not surrender, it would face "prompt and utter destruction."
 
-After only a few years, they managed to stay in the air for over an hour!
+The Japanese Emperor decided not to give into Trumans's demands.
+
+The Little Boy was dropped on the city of Hiroshima on August 6, 1945, followed by the Fat Man over Nagasaki on August 9.
+
+Why was it dropped?
+------------------
+
+* The army estimated that it would have cost between 500,000 to 1,000,000 soldiers lives to mount a successful full scale invasion of Japan.
+* Truman wanted an unconditional surrender of Japan.
+
 
 What effects did it have?
 =========================
 
-The invention of the airplane had major implications in the upcoming years.
+The nuclear age had truly begun with the first military use of atomic weapons.
+   * Soviet Russia had been intimidated, and that lead to nuclear proliferation
 
-During WWI, the plane was used for espionage.
+Bans on Nuclear Weaponry were created, but big countries like the U.S., China, and Soviet Russia could still acess these things unfortunately.
 
-During WWII, the plane was a major tool of destruction, fitted with powerful
-weaponry.
+   * Hiroshima and Nagasaki were utterly destroyed. Over thirty thousand people were killed at Hiroshima when the bomb was exploded. Over twenty thousand were killed at Nagasaki.
 
-For example, the plane made a big impact in the Battle of London where the 
-war was almost lost to the Axis powers.
+   * Tens of thousands or more people were killed from radiation fall out.
 
-Today, it is still used as a war machine, but now its' usage is extended to 
-quickly and effectively transporting goods and people from one place to another.
+   * After Nagasaki, Japan issued its' unconditional surrender to the U.S.
 
-Never before have humans been able to travel so quickly, lightly, effectively, and easily.
+   * America made a powerful statement that echoed across the international community.
+
 
 Media
 =====
 
-.. image:: images/flight.jpg
-   :width: 500px
+.. image:: images/manhat.png
 
-The first flight, at Kitty Hawk.
+A selection of US and Canadian sites important to the Manhattan Project.
 
-.. image:: images/kitty.jpg
+.. image:: images/atomics.jpg
 
-Another Kitty Hawk photo.
+A test detonation for the American nuclear weapons
 
-.. image:: images/bros.jpg
+.. image:: images/arch.jpg
 
-wilbur and orville wright
+An arch is the only standing after the end of the way (why)?"
