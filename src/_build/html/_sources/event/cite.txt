@@ -11,6 +11,10 @@ http://sixrevisions.com/resources/the-history-of-the-internet-in-a-nutshell/
 "I have a dream"
 ================
 
+http://en.wikipedia.org/wiki/I_Have_a_Dream
+
+http://www.huffingtonpost.com/2011/01/17/i-have-a-dream-speech-text_n_809993.html
+
 Bay of pigs/Cuban Missile Crisis
 ================================
 
