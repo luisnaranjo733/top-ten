@@ -18,6 +18,10 @@ http://www.huffingtonpost.com/2011/01/17/i-have-a-dream-speech-text_n_809993.htm
 Bay of pigs/Cuban Missile Crisis
 ================================
 
+http://en.wikipedia.org/wiki/Cuban_Missile_Crisis
+http://www.jfklibrary.org/JFK/JFK-in-History/Cuban-Missile-Crisis.aspx
+http://www.wyzant.com/Help/History/HPOL/JFK/Cuban/
+
 The C Programming Language
 ==========================
 
